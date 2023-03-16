@@ -1,3 +1,4 @@
+# https://json-schema.org/understanding-json-schema/reference/generic.html#enumerated-values
 from pprint import pprint as pp
 
 from jsonschema import Draft4Validator, validate
